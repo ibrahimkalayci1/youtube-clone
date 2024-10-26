@@ -1,40 +1,30 @@
-## TAILWIND
+<h1>Youtube Clone with React - Vite- Tailwind   </h1>
 
-## KURULUM
+<hr>
 
-tailwind.config.js , postcss.config.js
---npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+<h2>Technologies Used</h2>
 
-tailwind.config.js ekleme yap
+<p>
 
-content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
+# Libraries
 
+</br></br>
 
-index.css
-  @tailwind base;
-@tailwind components;
-@tailwind utilities;
+- react-router-dom
+  </br>
+- react-icons
+  </br>
+- axios
+  </br>
+- tailwind
+  </br>
+- moment
+  </br>
+- millify
+  </br>
+- react-player
+  </br>
+- Vite
+  </br> Responsive </p>
 
-## kullanacağımız kütüphaneler
---tailwind(stillendirme, kurulumu içinde)
-axios
-react-player
-react-icons
-milify(sayı formatlama
-moment zaman formatlama)
-react-router-dom
-
-## Enviroment Variables (ORTAM DEĞİŞKENLERİ)
-
-çalışma ortamı için gerekli ana projeyi githuba gönderdgmz zaman herkes tarafından  erişilebilir olmasını istemediğimiz değişkenleri ortam değişenleri olarak tanımlarız
-
-örn API KEY admin giriş bilgileri, yayılmasını istemediğimiz herhangi bir değişken
-
-
-
-
-# youtube-clone
+![Youtube-clone](https://github.com/user-attachments/assets/4bf39c67-85e6-43a4-8edf-4e353840c729)
